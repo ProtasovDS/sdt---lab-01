@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//uchebnaya
 int main()
 {int a,b;
 cout << "Введите числа\n";
